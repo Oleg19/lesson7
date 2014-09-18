@@ -1,0 +1,233 @@
+body {
+    margin: 0;
+    font-family: Sans;
+    font-style: normal;
+    font-size: 18px;
+
+}
+header, nav, section, aside, footer {
+    display: block;
+}
+
+.container {
+
+    margin: 0 auto;
+    border-radius: 10px;
+    background: #fffac4;;
+}
+
+.backgr {
+    margin: 10px;
+    height: 480px;
+    padding: 10px;
+    /*text-align: center;*/
+    border-radius: 5px;
+
+}
+/*
+.menu1 {
+    background: #000 repeat-x;
+    height: 95px;
+
+}
+
+.containerinput  {
+    margin-left: 660px;
+    padding-top: 35px;
+    padding-bottom: 35px;
+
+}
+
+input {
+    border-radius: 5px;
+}
+
+.main {
+    width: 632px;
+    float: left;
+}
+
+.foto {
+    margin-left: 10px;
+    background: url("../image/foto.jpg");
+    width: 620px;
+    height: 415px;
+    box-shadow: -4px 4px 8px #ccc;
+
+}
+.telnamber {
+    background: url("../image/telnamber.png") no-repeat;
+    width: 116px;
+    height: 26px;
+    margin-left: 13px;
+    position: relative;
+    top: 330px;
+
+}*/
+/*
+.text, .post, .textall {
+    margin-left: 230px;
+    text-align: justify;
+    position: relative;
+    top: 32px;
+
+}
+
+.post {
+    width: 376px;
+    font-style: oblique;
+    color: #959595;
+    font-size: small;
+}
+.post a {
+    font-style: normal;
+}
+
+.label {
+    width: 52px;
+    height: 18px;
+    position:relative;
+    right: 180px;
+    top: 85px;
+    float: left;
+    border-radius: 5px;
+}
+
+.label.f{
+    background: url("../image/f.png") no-repeat;
+
+}
+
+.label.sw{
+    background: url("../image/sw.png") no-repeat;
+    margin-left: 12px;
+}
+.label.w{
+    background: url("../image/w.png") no-repeat;
+    margin-left: 12px;
+}
+
+.square a {
+    background: #000;
+    left: 120px;
+    margin-top: 30px;
+    font-style: oblique;
+    text-align: center;
+    color: #959595;
+    font-size: small;
+    padding: 5px;
+    position: relative;
+    top: 80px;
+    text-decoration: none;
+    border-radius: 7px;
+
+}
+
+.container4 {
+    position: relative;
+    top: 76px;
+
+}
+
+.square1  {
+    background: #000;
+    width: 25px;
+    height: 25px;
+    margin-left: 60px;
+    position: relative;
+    top: 206px;
+    right: 40px;
+}
+.square2 {
+    right: 6px;
+    top: 181px;
+}
+.square3  {
+    left: 28px;
+    top: 156px;
+}
+.square4  {
+    left: 62px;
+    top: 131px;
+}
+.square5  {
+    left: 96px;
+    top: 106px;
+}
+
+.sidebar {
+    margin-left: 660px;
+    width: 310px;
+
+}
+
+.adv {
+    width: 310px;
+    /*margin-top: 16px;*/
+
+/*
+.adv > .div1 {
+    border: 10px solid #ebebeb;
+    width: 125px;
+    height: 125px;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+.adv > .border {
+    border: 10px solid #ebebeb;
+    margin-top: 140px;
+    height: 415px;
+    border-radius: 8px;
+}
+
+.position1 {
+    left: 10px;
+    top: 10px;
+}
+
+
+.marker3 {
+    background: #fff;
+    width: 240px;
+    height: 290px;
+}
+.marker4 {
+    background: #000;
+    height: 254px;
+    margin-top: 32px;
+    border-radius: 5px;
+}
+
+.textall, .decor a {
+    color: #959595;
+    font-size: small;
+    width: 376px;
+    text-decoration: none;
+
+}
+
+.position6 {
+    margin-left: 18px;
+
+}
+
+.drew {
+    background: url("../image/fish.png") no-repeat; /* Параметры фона */
+  /*  width: 120px;
+    height: 85px;
+    float: left;
+
+}
+
+.textpost, .textpost2{
+    font-size: small;
+    width: 260px;
+    margin-top: 20px;
+    text-align: justify;
+    line-height: 10px;
+
+}
+
+.line {}
